@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/jasonelwood" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-jasonElwood-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
 
-# Summary of workflow and technologies used for the following projects:
+## Summary of workflow and technologies used for the following projects:
 
 
 # Digital Invaders
