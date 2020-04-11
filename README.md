@@ -1,4 +1,9 @@
-<a href="https://comingsoon...com/resume/comingsoon.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:jason.elwood@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/jasonelwood" target="_blank"><img src="https://img.shields.io/badge/linkedin-caryMiller-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
+<a href="https://comingsoon...com/resume/comingsoon.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jason.elwood@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jason-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jasonelwood" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-jasonElwood-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
 
 # Summary of workflow and technologies used for the following projects:
 
