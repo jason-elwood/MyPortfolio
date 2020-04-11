@@ -17,9 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Robotz
 [Robotz](https://github.com/jason-elwood/robotz) 
-Platform: iOS
-Language: Objective-C
-Category: Puzzle/RPG Game&nbsp;&nbsp;
+## Platform: iOS
+## Language: Objective-C
+## Category: Puzzle/RPG Game&nbsp;&nbsp;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p align="center">
@@ -29,9 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Altair
 [Altair](https://github.com/jason-elwood/altair)
-Platform: macOS (Terminal)
-Language: Swift
-Category: Text Based Adventure/RPG&nbsp;&nbsp;
+## Platform: macOS (Terminal)
+## Language: Swift
+## Category: Text Based Adventure/RPG&nbsp;&nbsp;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p align="center">
@@ -41,9 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Cards With Benefits
 [Cards With Benefits](https://github.com/jason-elwood/cardswithbenefits)
- Platform: iOS
-Language: Swift
-Category: Cards Against Humanity style card game&nbsp;&nbsp;
+## Platform: iOS
+## Language: Swift
+## Category: Cards Against Humanity style card game&nbsp;&nbsp;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 ## Thanks for stopping by!
